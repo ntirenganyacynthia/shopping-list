@@ -1,7 +1,4 @@
-chocolates
-yoghurt
-biscuits
-popcorn
-bubble gum
-cookies
-crisps
+soap
+mooper
+liquid soap
+bucket
