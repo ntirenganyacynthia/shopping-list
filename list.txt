@@ -1,7 +1,8 @@
-chocolates
-yoghurt
-biscuits
-popcorn
-bubble gum
-cookies
+sweets
 crisps
+corns
+chocolates
+cookees
+yoghurt
+bubble gum
+
